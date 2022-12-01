@@ -24,7 +24,7 @@ An example application showing how platforms like Shopify and Woocommerce work u
 ## Installation Instructions 
 <a name="instr"></a> 
  
->Clone the associated repository onto your local machine, run npm i to get all necessary node packages, and run npm run start to start the server. To see what is happening between the server and the database, use Insomnia to call the routes. 
+>Clone the associated repository onto your local machine, run npm i to get all necessary node packages, use mysql terminal to establish the database, execute npm run seed to seed the database, and lastly execute npm run start to initialize the server. To see what is happening between the server and the database, use Insomnia to call the routes. 
  
 ## Usage information 
 <a name="usage"></a>  
@@ -48,7 +48,7 @@ An example application showing how platforms like Shopify and Woocommerce work u
 ## Questions 
 <a name="questions"></a> 
 
->If you have any questions please check the issue for the associated repo at my github account: dcodner24 
+>If you have any questions please check the issues for the associated repo at my github account: [dcodner24](https://github.com/dcodner24/E-Commerce-Back-End/issues) 
 
 >For any additional questions, feel free to contact me at my work email: dccodner24@gmail.com
 
