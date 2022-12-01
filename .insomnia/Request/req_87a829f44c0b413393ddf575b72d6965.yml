@@ -1,0 +1,31 @@
+_id: req_87a829f44c0b413393ddf575b72d6965
+type: Request
+parentId: fld_0fa3509d583747d19f6ad72bf24b45c5
+modified: 1669932136945
+created: 1669928832928
+url: http://localhost:3001/api/products/
+name: Create a New Product
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+          "product_name": "Basketball",
+          "price": 200.00,
+          "stock": 3,
+          "tagIds": [1, 2, 3, 4]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669927858974
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

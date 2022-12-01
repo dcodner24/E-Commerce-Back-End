@@ -1,0 +1,21 @@
+_id: req_293d61d9488845299081ef54082328fd
+type: Request
+parentId: fld_d38b030d07454e8cb0d726a5cf1eb73a
+modified: 1669931598068
+created: 1669926338565
+url: http://localhost:3001/api/categories/
+name: Delete Category
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669922270214
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,28 @@
+_id: req_01b5560231174a7693b734b581b9e3b7
+type: Request
+parentId: fld_bcb801370738474086d9b0b6acceb6d2
+modified: 1669932155189
+created: 1669930513535
+url: http://localhost:3001/api/tags/9
+name: Update a Tag Name
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"tag_name": "Xenon"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669930119039
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

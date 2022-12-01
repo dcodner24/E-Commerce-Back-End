@@ -1,0 +1,21 @@
+_id: req_30724dfd4418443aae3ce2535daf722c
+type: Request
+parentId: fld_bcb801370738474086d9b0b6acceb6d2
+modified: 1669931922304
+created: 1669930137852
+url: http://localhost:3001/api/tags/9
+name: Get One Tag
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669930119139
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

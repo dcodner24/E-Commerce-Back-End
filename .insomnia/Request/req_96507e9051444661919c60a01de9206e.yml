@@ -1,0 +1,33 @@
+_id: req_96507e9051444661919c60a01de9206e
+type: Request
+parentId: fld_0fa3509d583747d19f6ad72bf24b45c5
+modified: 1669932139954
+created: 1669929073660
+url: http://localhost:3001/api/products/6
+name: Update a Product
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+          "product_name": "Basketball",
+          "price": 20.00,
+          "stock": 3,
+    			"category_id": 6,
+    			"category": "Toys",
+          "tagIds": []
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669927858949
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

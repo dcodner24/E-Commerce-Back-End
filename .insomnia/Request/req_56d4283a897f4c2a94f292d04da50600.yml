@@ -1,0 +1,21 @@
+_id: req_56d4283a897f4c2a94f292d04da50600
+type: Request
+parentId: fld_0fa3509d583747d19f6ad72bf24b45c5
+modified: 1669931681102
+created: 1669928606711
+url: http://localhost:3001/api/products/6
+name: Get One Product
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669927859024
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

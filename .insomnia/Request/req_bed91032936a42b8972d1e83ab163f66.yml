@@ -1,0 +1,29 @@
+_id: req_bed91032936a42b8972d1e83ab163f66
+type: Request
+parentId: fld_d38b030d07454e8cb0d726a5cf1eb73a
+modified: 1669932131185
+created: 1669923374539
+url: http://localhost:3001/api/categories/
+name: Create a New Category
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    
+    {
+    	"category_name": "Toys"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669922270314
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

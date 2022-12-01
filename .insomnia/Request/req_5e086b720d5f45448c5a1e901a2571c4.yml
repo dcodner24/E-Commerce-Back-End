@@ -1,0 +1,21 @@
+_id: req_5e086b720d5f45448c5a1e901a2571c4
+type: Request
+parentId: fld_bcb801370738474086d9b0b6acceb6d2
+modified: 1669930563250
+created: 1669930119189
+url: http://localhost:3001/api/tags/
+name: Get All Tags
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669930119189
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

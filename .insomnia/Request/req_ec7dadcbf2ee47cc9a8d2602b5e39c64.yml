@@ -1,0 +1,21 @@
+_id: req_ec7dadcbf2ee47cc9a8d2602b5e39c64
+type: Request
+parentId: fld_d38b030d07454e8cb0d726a5cf1eb73a
+modified: 1669931583185
+created: 1669922270364
+url: http://localhost:3001/api/categories/9
+name: Get One Category
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669922270364
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
