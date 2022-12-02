@@ -1,0 +1,21 @@
+_id: req_06abb6fe859c4c339c74ed10d66164cc
+type: Request
+parentId: fld_bcb801370738474086d9b0b6acceb6d2
+modified: 1669930751991
+created: 1669930530684
+url: http://localhost:3001/api/tags/9
+name: Delete a Tag
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669930118989
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

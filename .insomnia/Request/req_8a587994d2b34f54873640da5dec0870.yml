@@ -1,0 +1,25 @@
+_id: req_8a587994d2b34f54873640da5dec0870
+type: Request
+parentId: fld_d38b030d07454e8cb0d726a5cf1eb73a
+modified: 1669928646463
+created: 1669880778956
+url: http://localhost:3001/api/categories/
+name: Get All Categories
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669922270414
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

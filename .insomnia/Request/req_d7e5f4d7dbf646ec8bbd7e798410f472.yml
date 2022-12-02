@@ -1,0 +1,28 @@
+_id: req_d7e5f4d7dbf646ec8bbd7e798410f472
+type: Request
+parentId: fld_bcb801370738474086d9b0b6acceb6d2
+modified: 1669932151427
+created: 1669930152133
+url: http://localhost:3001/api/tags/
+name: Create a New Tag
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"tag_name": "Purple"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669930119089
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

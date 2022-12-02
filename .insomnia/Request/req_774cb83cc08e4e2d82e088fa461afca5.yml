@@ -1,0 +1,29 @@
+_id: req_774cb83cc08e4e2d82e088fa461afca5
+type: Request
+parentId: fld_d38b030d07454e8cb0d726a5cf1eb73a
+modified: 1669931976709
+created: 1669926890562
+url: http://localhost:3001/api/categories/6
+name: Update Category
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |
+    {
+    	
+    	"category_name": "Sporting Goods"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669922270264
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
